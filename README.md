@@ -57,7 +57,7 @@ You should see the following output:
 - `MAX_BUY_RETRIES` - Maximum number of retries for buying a token.
 - `BUY_SLIPPAGE` - Slippage %
 
-#### Sell
+#### Sell💲
 
 - `AUTO_SELL` - Set to `true` to enable automatic selling of tokens.
   - If you want to manually sell bought tokens, disable this option.
